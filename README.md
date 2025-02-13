@@ -63,8 +63,4 @@
   <a href="mailto:md6256@nyu.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/mukesh-durga/mukesh-durga/blob/output/github-contribution-grid-snake.svg">
-</p>
+
