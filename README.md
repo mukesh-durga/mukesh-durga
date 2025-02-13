@@ -1,4 +1,4 @@
-![GitHub Banner](https://your-image-link.com) 
+![GitHub Banner]([https://your-image-link.com](https://i.imgur.com/Bn3kv2e.png)) 
 ## Hi there 👋
 
 <!--
