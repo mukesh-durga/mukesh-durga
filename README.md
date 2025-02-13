@@ -1,5 +1,4 @@
-![GitHub Banner]([https://your-image-link.com](https://i.imgur.com/Bn3kv2e.png)) 
-## Hi there 👋
+![GitHub Banner](https://i.imgur.com/Bn3kv2e.png)
 
 <!--
 **mukesh-durga/mukesh-durga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
