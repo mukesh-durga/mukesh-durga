@@ -65,4 +65,6 @@
 
 ---
 ## 🐍 GitHub Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/mukesh-durga/mukesh-durga/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/mukesh-durga/mukesh-durga/blob/output/github-contribution-grid-snake.svg">
+</p>
