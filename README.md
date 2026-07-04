@@ -1,127 +1,196 @@
-<!-- GitHub Profile Header -->
-![GitHub Banner](https://i.imgur.com/Bn3kv2e.png)
+<!-- GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm Mukesh Durga! 👋</h1>
+<div align="center">
 
-💡 **Backend Engineer | AI & ML Enthusiast | Full-Stack Developer**  
-🚀 Passionate about **Scalable Systems, AI/ML, and Backend Development**  
-🎓 **Graduate Student at NYU | Fall 2024**  
+# Mukesh Durga
 
----
+### Software Engineer building AI-powered backend systems that scale, recover, and adapt.
 
-## 🚀 About Me
-- 🔭 Currently working on **[HobbyHive](https://github.com/mukesh-durga/HobbyHive)** – A social networking platform for hobby enthusiasts.
-- 🧠 Focused on **Multi-Modal Search Engine, AI, and Cloud Computing**.
-- 🌱 Exploring **MLOps, Large-Scale Distributed Systems & DevOps**.
-- 📫 Reach me at: **[md6256@nyu.edu](mailto:md6256@nyu.edu)**
-- 🏆 Aiming for **MAANG-Level** Software Engineering Excellence.
+NYU CS grad focused on the intersection of **backend engineering**, **applied AI**, **cloud infrastructure**, and **production reliability**.
+
+[Portfolio](https://www.mukesh-durga.dev) · [LinkedIn](https://www.linkedin.com/in/mukesh-durga) · [Email](mailto:md6256@nyu.edu)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## About Me
 
-### **🖥️ Programming Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white">
-</p>
+I'm a software engineer who likes building systems that hold up under real conditions.
+
+Most of my work sits where backend engineering meets applied AI — distributed services, cloud infrastructure, LLM workflows, analytics systems, and tools that need to be reliable beyond a demo.
+
+I enjoy taking messy technical problems and turning them into clean, usable systems. Sometimes that means improving backend latency, tracing reliability issues, or designing API workflows. Other times it means wiring LLMs into products where correctness, observability, and failure handling actually matter.
+
+Right now, I’m focused on:
+
+- Backend systems and distributed services
+- AI workflow orchestration and agent tooling
+- Text-to-SQL, RAG, and developer-facing AI products
+- Cloud infrastructure, observability, and reliability
+- Full-stack systems with strong product usefulness
 
 ---
 
-### **🛠️ Frameworks and SDKs**
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+## Featured Work
+
+### Stagehand — Multi-Agent Workflow Builder with Live Execution Tracing
+
+A full-stack platform for designing and running agent workflows on a drag-and-drop canvas.
+
+- Built live execution tracing for multi-step agent runs
+- Added workflow replay, error tracing, retry handling, and tool-call visibility
+- Focused on making LLM workflows observable, debuggable, and production-ready
+
+**Tech:** React Flow, FastAPI, PostgreSQL, ClickHouse, WebSockets, LLMs
 
 ---
 
-### **☁️ AWS Cloud Services**
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-</p>
+### Forecast Studio — Natural-Language Analytics with SQL Verification
+
+A full-stack app that turns plain-English questions into verified SQL against Postgres or Snowflake.
+
+- Runs generated SQL inside a read-only sandbox with timeout and row-limit controls
+- Checks whether the query result actually answers the original question
+- Designed for analytics workflows where correctness matters more than just generating SQL
+
+**Tech:** Text-to-SQL, FastAPI, PostgreSQL, Snowflake, LLMs
 
 ---
 
-### **🤖 Machine Learning Libraries**
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-</p>
+### Onboard.dev — AI Codebase Onboarding with Dependency Graph Analysis
+
+A developer tool that helps engineers understand unfamiliar GitHub repositories faster.
+
+- Ingests a repo and maps dependencies across files and modules
+- Ranks important modules using dependency and code-structure signals
+- Generates a guided learning path, quizzes, and a Q&A agent with line-level code citations
+
+**Tech:** Next.js, RAG, pgvector, D3, FastAPI
 
 ---
 
-### **📊 Big Data and Visualization**
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-</p>
+### SolHive — Blockchain Analytics
+
+A blockchain analytics project built during HackNYU 2025.
+
+- Extracted useful insights from decentralized transaction activity
+- Focused on turning raw blockchain activity into cleaner, more usable analytics
+
+**Tech:** Blockchain, Python, APIs, Data Visualization
 
 ---
 
-### **📌 Computer Science Concepts**
-```markdown
-✅ Data Structures & Algorithms
-✅ Object-Oriented Programming (OOP)
-✅ REST API Development
-✅ System Design Concepts
-✅ Machine Learning
+## Experience Snapshot
+
+### Graduate Teaching & Course Assistant — New York University
+
+Mentored students across software engineering, backend design, APIs, authentication, testing, debugging, algorithms, and systems thinking.
+
+### Software Engineer — Capgemini
+
+Built Java/Spring Boot microservices for enterprise geospatial and logistics workflows. Worked on API performance, Kafka/gRPC integrations, Kubernetes migration, CI, testing, monitoring, and reliability improvements.
+
+### Software Engineering Intern — Capgemini
+
+Built AI-assisted internal tooling and Python/Hadoop ETL pipelines for analytics workflows.
+
+### Data Intern — HighRadius
+
+Worked on FinTech recommendation workflows, feature generation, and model evaluation.
 
 ---
 
-## 📌 Featured Projects
-| Project | Description | Tech Stack |
-|---------|------------|------------|
-| **[HobbyHive](https://github.com/mukesh-durga/HobbyHive)** | Social networking for hobbyists | Django, React, PostgreSQL |
-| **[Multi-Modal Search Engine](https://github.com/mukesh-durga/Multi-Modal-Search)** | AI-powered search across text, images, and audio | BERT, CLIP, ResNet, Wav2Vec |
-| **[Dining Concierge Chatbot](https://github.com/mukesh-durga/Dining-Chatbot)** | AI-powered restaurant chatbot using AWS Lex | AWS Lambda, DynamoDB, ElasticSearch |
+## Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend & Systems
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-111827?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-111827?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge)
+
+### AI & ML Systems
+
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-111827?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge)
+![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-111827?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-111827?style=for-the-badge)
+![Agent Evaluation](https://img.shields.io/badge/Agent%20Evaluation-111827?style=for-the-badge)
+
+### Cloud, Data & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-111827?style=for-the-badge&logo=snowflake&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-111827?style=for-the-badge&logo=clickhouse&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-111827?style=for-the-badge)
+
+### Frontend & Developer Tooling
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Flow](https://img.shields.io/badge/React%20Flow-111827?style=for-the-badge)
+![D3](https://img.shields.io/badge/D3-111827?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Monaco](https://img.shields.io/badge/Monaco%20Editor-111827?style=for-the-badge)
+
+### Reliability & Observability
+
+![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-111827?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-111827?style=for-the-badge)
+![Alerting](https://img.shields.io/badge/Alerting-111827?style=for-the-badge)
+![Tracing](https://img.shields.io/badge/Tracing-111827?style=for-the-badge)
+![RCA](https://img.shields.io/badge/Root%20Cause%20Analysis-111827?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukesh-durga&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-durga&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-durga&layout=compact&theme=radical">
-</p>
+## What I Care About
+
+- Building systems that are useful under real-world constraints
+- Making AI workflows observable, testable, and failure-aware
+- Designing APIs and services that are clean, reliable, and easy to operate
+- Turning ambiguous product or engineering problems into working systems
+- Keeping the feedback loop tight between building, testing, monitoring, and improving
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mukesh-durga"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:md6256@nyu.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
-</p>
+## GitHub Activity
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mukesh-durga&show_icons=true&theme=tokyonight&hide_border=true" alt="Mukesh Durga GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-durga&layout=compact&theme=tokyonight&hide_border=true" alt="Mukesh Durga top languages" />
+
+</div>
+
+---
+
+## Connect
+
+I’m open to software engineering, backend, AI tooling, cloud, and full-stack roles.
+
+- Portfolio: [mukesh-durga.dev](https://www.mukesh-durga.dev)
+- LinkedIn: [linkedin.com/in/mukesh-durga](https://www.linkedin.com/in/mukesh-durga)
+- Email: [md6256@nyu.edu](mailto:md6256@nyu.edu)
+
+---
